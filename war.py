@@ -1,5 +1,5 @@
-from Deck import Deck
-from Player import Player
+from src.Deck import Deck
+from src.Player import Player
 
 if __name__ == '__main__':
 
